@@ -1,4 +1,4 @@
-# springboot-todo-rest-api
+# Spring Boot Todo REST API
 
 Simple todo REST API service built with Spring Boot
 
